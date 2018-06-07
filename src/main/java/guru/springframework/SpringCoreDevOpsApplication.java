@@ -12,6 +12,5 @@ public class SpringCoreDevOpsApplication {
 		
 		//this is a whitespace change test added by Ashutosh
 		
-		
 	}
 }
