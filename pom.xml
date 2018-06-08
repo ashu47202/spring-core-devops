@@ -96,13 +96,13 @@
 	<distributionManagement>
 		<repository>
 			<id>central</id>
-			<name>49ec81db94c2-releases</name>
-			<url>http://artifactory.springframework.guru/artifactory/libs-release-local</url>
+			<name>44fbe61503fc-releases</name>
+			<url>http://18.224.0.252:8081/artifactory/libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<name>49ec81db94c2-snapshots</name>
-			<url>http://artifactory.springframework.guru/artifactory/libs-snapshot-local</url>
+			<name>44fbe61503fc-snapshots</name>
+			<url>http://18.224.0.252:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
